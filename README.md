@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 今度こそtest
+新しいやり方
